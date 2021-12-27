@@ -9,6 +9,9 @@ student1:
     - dewey
     - louie
     - fred
+    - eagle
+    - snowcone
+    - elephant
 
 credentials:
   url: https://www:.google.com
