@@ -9,3 +9,10 @@ snoop3
 snoop4
 snoop5
 snoop6
+snoop
+snoop1
+snoop2
+snoop3
+snoop4
+snoop5
+snoop6
