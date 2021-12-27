@@ -9,7 +9,7 @@ snoop3
 snoop4
 snoop5
 snoop6
-snoop
+snoopnv nbb
 snoop1
 snoop2
 snoop3
