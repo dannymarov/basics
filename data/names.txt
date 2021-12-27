@@ -9,10 +9,3 @@ snoop3
 snoop4
 snoop5
 snoop6
-snoopnv nbb
-snoop1
-snoop2
-snoop3
-snoop4
-snoop5
-snoop6
